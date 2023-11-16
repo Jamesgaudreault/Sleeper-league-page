@@ -10,7 +10,8 @@ export const homepageText = `
   <p>What's up my he/him's, welcome to the League of Xtraordinary Gentlemen custom home page. </p>
   <p>This naughty kitty has stolen this github API generated website thingy from a Reddit code boy. </p>
   <p>There's a cool option to create manager roles for each of you that will allow you to customize team things and contribute to blog posts etc. If anyone has HTML coding passion, the possibilities r endless! </p>
-  <p>For now, this is all I've got for this Couger Couch tangent. With love, rawr XD. </p>;
+  <p>For now, this is all I've got for this Couger Couch tangent. With love, rawr XD. </p>
+  ';
   
 /*   STEP 3   */
 /*
